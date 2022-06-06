@@ -1,0 +1,1112 @@
+Uri: https://fonts.googleapis.com/css?family=Bree+Serif:1%2C100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:1%2C100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/breeserif/v17/4UaHrEJCrhhnVA3DgluA96rp4g.ttf
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\s\breeserif\v17\4UaHrEJCrhhnVA3DgluA96rp4g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\s\lato\v23\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\s\lato\v23\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\s\lato\v23\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\s\lato\v23\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\s\lato\v23\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\s\lato\v23\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\s\lato\v23\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\s\lato\v23\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\s\lato\v23\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\s\lato\v23\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://socialgamesonline.io/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\index.htm
+Content Type: text/html
+
+Uri: https://socialgamesonline.io/comments/feed/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://socialgamesonline.io/company/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\company\index.htm
+Content Type: text/html
+
+Uri: https://socialgamesonline.io/company/feed/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\company\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://socialgamesonline.io/contact/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\contact\index.htm
+Content Type: text/html
+
+Uri: https://socialgamesonline.io/contact/feed/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\contact\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://socialgamesonline.io/cookie-policy/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\cookie-policy\index.htm
+Content Type: text/html
+
+Uri: https://socialgamesonline.io/feed/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://socialgamesonline.io/games/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\games\index.htm
+Content Type: text/html
+
+Uri: https://socialgamesonline.io/games/feed/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\games\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://socialgamesonline.io/home/feed/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\home\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://socialgamesonline.io/portfolio-item/el-tesoro-de-java/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\portfolio-item\el-tesoro-de-java\index.htm
+Content Type: text/html
+
+Uri: https://socialgamesonline.io/portfolio-item/fby-academy/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\portfolio-item\fby-academy\index.htm
+Content Type: text/html
+
+Uri: https://socialgamesonline.io/portfolio-item/la-granja/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\portfolio-item\la-granja\index.htm
+Content Type: text/html
+
+Uri: https://socialgamesonline.io/portfolio-item/la-perla-del-caribe/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\portfolio-item\la-perla-del-caribe\index.htm
+Content Type: text/html
+
+Uri: https://socialgamesonline.io/portfolio-item/mundo-slots/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\portfolio-item\mundo-slots\index.htm
+Content Type: text/html
+
+Uri: https://socialgamesonline.io/portfolio-item/slotcom/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\portfolio-item\slotcom\index.htm
+Content Type: text/html
+
+Uri: https://socialgamesonline.io/portfolio-item/troya/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\portfolio-item\troya\index.htm
+Content Type: text/html
+
+Uri: https://socialgamesonline.io/portfolio-item/vikingos/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\portfolio-item\vikingos\index.htm
+Content Type: text/html
+
+Uri: https://socialgamesonline.io/privacy-policy/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://socialgamesonline.io/privacy-policy/feed/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\privacy-policy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://socialgamesonline.io/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6.1
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6.1
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.5.6.1
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\contact-form-7\modules\recaptcha\index.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-content/plugins/cookie-law-info/images/td_back.gif
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\cookie-law-info\images\td_back.gif
+Content Type: image/gif
+
+Uri: https://socialgamesonline.io/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=2.1.2
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\cookie-law-info\public\css\cookie-law-info-gdpr.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=2.1.2
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\cookie-law-info\public\css\cookie-law-info-public.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-table.css?ver=2.1.2
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\cookie-law-info\public\css\cookie-law-info-table.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=2.1.2
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\cookie-law-info\public\js\cookie-law-info-public.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: image/x-icon
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: image/x-icon
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.1
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\css\settings.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.1
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.1
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme-child/style.css?ver=21.0.4
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme-child\style.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/animations/animations.min.css?ver=21.0.4
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/animations/animations.min.js?ver=21.0.4
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\animations\animations.min.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.css?ver=21.0.4
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\jplayer\css\jplayer.blue.monday.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\jplayer\css\jplayer.blue.monday.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.seeking.gif
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\jplayer\css\jplayer.blue.monday.seeking.gif
+Content Type: image/gif
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/jplayer/css/jplayer.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\jplayer\css\jplayer.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/jplayer/jplayer.min.js?ver=21.0.4
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\jplayer\jplayer.min.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/ui/images/bg_widget_header.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\ui\images\bg_widget_header.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/ui/images/bg_widget_header_active.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\ui\images\bg_widget_header_active.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/ui/images/ui-bg_flat_0_aaaaaa_40x100.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\ui\images\ui-bg_flat_0_aaaaaa_40x100.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/ui/images/ui-bg_flat_75_ffffff_40x100.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\ui\images\ui-bg_flat_75_ffffff_40x100.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/ui/images/ui-bg_glass_55_fbf9ee_1x400.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\ui\images\ui-bg_glass_55_fbf9ee_1x400.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/ui/images/ui-bg_glass_95_fef1ec_1x400.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\ui\images\ui-bg_glass_95_fef1ec_1x400.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/ui/images/ui-icons_222222_256x240.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\ui\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/ui/images/ui-icons_2e83ff_256x240.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\ui\images\ui-icons_2e83ff_256x240.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/ui/images/ui-icons_454545_256x240.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\ui\images\ui-icons_454545_256x240.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/ui/images/ui-icons_888888_256x240.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\ui\images\ui-icons_888888_256x240.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/ui/images/ui-icons_cd0a0a_256x240.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\ui\images\ui-icons_cd0a0a_256x240.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/assets/ui/jquery.ui.all.css?ver=21.0.4
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\assets\ui\jquery.ui.all.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/css/base.css?ver=21.0.4
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\css\base.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/css/layout.css?ver=21.0.4
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\css\layout.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/css/responsive.css?ver=21.0.4
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\css\responsive.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/css/shortcodes.css?ver=21.0.4
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\css\shortcodes.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/fonts/mfn-icons.eot?93978679
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\fonts\mfn-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/fonts/mfn-icons.svg?93978679
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\fonts\mfn-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/fonts/mfn-icons.ttf?93978679
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\fonts\mfn-icons.ttf
+Content Type: font/ttf
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/fonts/mfn-icons.woff?93978679
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\fonts\mfn-icons.woff
+Content Type: font/woff
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/bg_panel.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\bg_panel.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/blog_masonry_tile_gradient.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\blog_masonry_tile_gradient.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/box_shadow.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\box_shadow.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/fancy_heading_hr.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\fancy_heading_hr.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/fancy_heading_hr_dark.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\fancy_heading_hr_dark.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/preloader.gif
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\preloader.gif
+Content Type: image/gif
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/recent_comments.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\recent_comments.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/stripes/stripes_10_b.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\stripes\stripes_10_b.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/stripes/stripes_10_w.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\stripes\stripes_10_w.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/stripes/stripes_3_b.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\stripes\stripes_3_b.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/stripes/stripes_5_b.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\stripes\stripes_5_b.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/stripes/textline.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\stripes\textline.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/stripes/textline_dark.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\stripes\textline_dark.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/timeline_left.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\timeline_left.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/timeline_right.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\timeline_right.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/timeline_top.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\timeline_top.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/images/videomask.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\images\videomask.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/js/menu.js?ver=21.0.4
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\js\menu.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/js/parallax/translate3d.js?ver=21.0.4
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\js\parallax\translate3d.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/js/plugins.js?ver=21.0.4
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/js/scripts.js?ver=21.0.4
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-content/themes/betheme/style.css
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\themes\betheme\style.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/cabecera_FBI.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\cabecera_FBI.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/cabecera_perla.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\cabecera_perla.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/CARIBE_IMG_DESTAC-1-100x75.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\CARIBE_IMG_DESTAC-1-100x75.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/CARIBE_IMG_DESTAC-1-195x146.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\CARIBE_IMG_DESTAC-1-195x146.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/CARIBE_IMG_DESTAC-1-300x225.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\CARIBE_IMG_DESTAC-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/CARIBE_IMG_DESTAC-1-50x37.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\CARIBE_IMG_DESTAC-1-50x37.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/CARIBE_IMG_DESTAC-1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\CARIBE_IMG_DESTAC-1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/FBI-100x75.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\FBI-100x75.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/FBI-195x146.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\FBI-195x146.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/FBI-300x225.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\FBI-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/FBI-50x37.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\FBI-50x37.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/FBI.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\FBI.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/JAVA-100x75.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\JAVA-100x75.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/JAVA-195x146.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\JAVA-195x146.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/JAVA-300x225.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\JAVA-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/JAVA-50x37.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\JAVA-50x37.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/JAVA.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\JAVA.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/LAGRANJA-1-100x75.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\LAGRANJA-1-100x75.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/LAGRANJA-1-195x146.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\LAGRANJA-1-195x146.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/LAGRANJA-1-300x225.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\LAGRANJA-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/LAGRANJA-1-50x37.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\LAGRANJA-1-50x37.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/04/LAGRANJA-1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\04\LAGRANJA-1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/05/boton-facebook-1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\05\boton-facebook-1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/05/footer-boton-app-atore.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\05\footer-boton-app-atore.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/05/footer-boton-google-play.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\05\footer-boton-google-play.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/05/SLOT_IMG_DESTAC-2-100x75.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\05\SLOT_IMG_DESTAC-2-100x75.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/05/SLOT_IMG_DESTAC-2-195x146.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\05\SLOT_IMG_DESTAC-2-195x146.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/05/SLOT_IMG_DESTAC-2-300x225.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\05\SLOT_IMG_DESTAC-2-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/05/SLOT_IMG_DESTAC-2-50x37.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\05\SLOT_IMG_DESTAC-2-50x37.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2014/05/SLOT_IMG_DESTAC-2.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2014\05\SLOT_IMG_DESTAC-2.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/10.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\10.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/4.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\4.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/777.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\777.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/9.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\9.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/back_ok-2.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\back_ok-2.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/bola_amarilla_22.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\bola_amarilla_22.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/bola_azul_4.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\bola_azul_4.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/bola_mostaza_13.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\bola_mostaza_13.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/bola_roja_25.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\bola_roja_25.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/cabecera_la-granja.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\cabecera_la-granja.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/cabecera_tesoro.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\cabecera_tesoro.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/cabecera_Troya.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\cabecera_Troya.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/cabecera_Vikingos.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\cabecera_Vikingos.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/cuadrado_4.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\cuadrado_4.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/cuadrado_5.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\cuadrado_5.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/gema.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\gema.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/king.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\king.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/logo-sgo-2.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\logo-sgo-2.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/slot.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\slot.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/social-games-online-logo.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\social-games-online-logo.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/TROYA-2-100x75.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\TROYA-2-100x75.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/TROYA-2-195x146.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\TROYA-2-195x146.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/TROYA-2-300x225.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\TROYA-2-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/TROYA-2-50x37.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\TROYA-2-50x37.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/TROYA-2.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\TROYA-2.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/VIKINGOS-100x75.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\VIKINGOS-100x75.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/VIKINGOS-195x146.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\VIKINGOS-195x146.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/VIKINGOS-300x225.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\VIKINGOS-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/VIKINGOS-50x37.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\VIKINGOS-50x37.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/01/VIKINGOS.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\01\VIKINGOS.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-750x1334_13-minijuegos.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-750x1334_13-minijuegos.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-750x1334_2-loading.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-750x1334_2-loading.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-750x1334_4-a-avances.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-750x1334_4-a-avances.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-750x1334_5-daily.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-750x1334_5-daily.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-750x1334_7-vamos-a-surfear.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-750x1334_7-vamos-a-surfear.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-750x1334_8-tortuga.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-750x1334_8-tortuga.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-750x1334_9-agaporni.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-750x1334_9-agaporni.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-Mobile-750x1334_avances.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-Mobile-750x1334_avances.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-Mobile-750x1334_bigWin.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-Mobile-750x1334_bigWin.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-Mobile-750x1334_Daily.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-Mobile-750x1334_Daily.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-Mobile-750x1334_loading-1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-Mobile-750x1334_loading-1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-Mobile-750x1334_loading.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-Mobile-750x1334_loading.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-Mobile-750x1334_minijuegos-1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-Mobile-750x1334_minijuegos-1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-Mobile-750x1334_minijuegos.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-Mobile-750x1334_minijuegos.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-Mobile-750x1334_minijuegos2.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-Mobile-750x1334_minijuegos2.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-Mobile-750x1334_Progresivo.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-Mobile-750x1334_Progresivo.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-Mobile-750x1334_retencion.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-Mobile-750x1334_retencion.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-Mobile-750x1334_retenciones.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-Mobile-750x1334_retenciones.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-Mobile-750x1334_rodillos.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-Mobile-750x1334_rodillos.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Android-Mobile-750x1334_topos.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Android-Mobile-750x1334_topos.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/back_degradado-3.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\back_degradado-3.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/cabecera_company-1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\cabecera_company-1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/cabecera_company_slot.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\cabecera_company_slot.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/CEREZAS.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\CEREZAS.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/favicon_180.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\favicon_180.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/favicon_32.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\favicon_32.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/FRESAS.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\FRESAS.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/logo-sgo_movil-1.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\logo-sgo_movil-1.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/mobile_1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\mobile_1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/mobile_2_latino.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\mobile_2_latino.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/mobile_3.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\mobile_3.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/mobile_4.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\mobile_4.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/mobile_5.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\mobile_5.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/mobil_0.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\mobil_0.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/mobil_1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\mobil_1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/mobil_2.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\mobil_2.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/mobil_3.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\mobil_3.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/mobil_4.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\mobil_4.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/movil-2.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\movil-2.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/promo-stores-android-750x1334-01.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\promo-stores-android-750x1334-01.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/promo-stores-android-750x1334-02.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\promo-stores-android-750x1334-02.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/promo-stores-android-750x1334-03.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\promo-stores-android-750x1334-03.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/promo-stores-android-750x1334-04.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\promo-stores-android-750x1334-04.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/promo-stores-android-750x1334-05.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\promo-stores-android-750x1334-05.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Store_02-1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Store_02-1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Store_03-1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Store_03-1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Store_04-1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Store_04-1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Store_05-1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Store_05-1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Store_07-1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Store_07-1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Store_09-1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Store_09-1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/02/Store_10-1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\02\Store_10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/10/Header-landing-SGO.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\10\Header-landing-SGO.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/10/iOS_1242x2208_1.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\10\iOS_1242x2208_1.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/10/iOS_1242x2208_10.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\10\iOS_1242x2208_10.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/10/iOS_1242x2208_2.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\10\iOS_1242x2208_2.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/10/iOS_1242x2208_4.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\10\iOS_1242x2208_4.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/10/iOS_1242x2208_5.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\10\iOS_1242x2208_5.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/10/iOS_1242x2208_6.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\10\iOS_1242x2208_6.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/10/iOS_1242x2208_7.jpg
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\10\iOS_1242x2208_7.jpg
+Content Type: image/jpeg
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/10/MundoSlots-banner-SGO-1-100x75.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\10\MundoSlots-banner-SGO-1-100x75.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/10/MundoSlots-banner-SGO-1-195x146.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\10\MundoSlots-banner-SGO-1-195x146.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/10/MundoSlots-banner-SGO-1-300x225.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\10\MundoSlots-banner-SGO-1-300x225.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/10/MundoSlots-banner-SGO-1-50x37.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\10\MundoSlots-banner-SGO-1-50x37.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-content/uploads/2019/10/MundoSlots-banner-SGO-1.png
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-content\uploads\2019\10\MundoSlots-banner-SGO-1.png
+Content Type: image/png
+
+Uri: https://socialgamesonline.io/wp-includes/css/dist/block-library/style.min.css
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://socialgamesonline.io/wp-includes/js/comment-reply.min.js
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-includes\js\jquery\ui\accordion.min.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-includes\js\jquery\ui\mouse.min.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-includes\js\jquery\ui\sortable.min.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-includes\js\jquery\ui\tabs.min.js
+Content Type: application/javascript
+
+Uri: https://socialgamesonline.io/wp-json/
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2F
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2F&format=xml
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fcompany%2F
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fcompany%2F&format=xml
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fcookie-policy%2F
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fcookie-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fgames%2F
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fgames%2F&format=xml
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Fel-tesoro-de-java%2F
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Fel-tesoro-de-java%2F&format=xml
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Ffby-academy%2F
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Ffby-academy%2F&format=xml
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Fla-granja%2F
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Fla-granja%2F&format=xml
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Fla-perla-del-caribe%2F
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Fla-perla-del-caribe%2F&format=xml
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Fmundo-slots%2F
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Fmundo-slots%2F&format=xml
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Fslotcom%2F
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Fslotcom%2F&format=xml
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Ftroya%2F
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Ftroya%2F&format=xml
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Fvikingos%2F
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fportfolio-item%2Fvikingos%2F&format=xml
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fprivacy-policy%2F
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fsocialgamesonline.io%2Fprivacy-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://socialgamesonline.io/wp-json/wp/v2/pages/17
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\wp\v2\pages\17
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/wp/v2/pages/19
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\wp\v2\pages\19
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/wp/v2/pages/2225
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\wp\v2\pages\2225
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/wp/v2/pages/23
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\wp\v2\pages\23
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/wp/v2/pages/3
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\wp\v2\pages\3
+Content Type: application/json
+
+Uri: https://socialgamesonline.io/wp-json/wp/v2/pages/3205
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\wp-json\wp\v2\pages\3205
+Content Type: application/json
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-65559294-1
+File Name: C:\Downloaded Web Sites\socialgamesonline.io\gtag\js
+Content Type: application/javascript
+
